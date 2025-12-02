@@ -1,2 +1,3 @@
 changes by komal
 second change
+changes are done form git repo direcly
