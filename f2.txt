@@ -1,3 +1,15 @@
 this is f2 file
 f2 is changed from git repo
 
+
+
+
+
+
+
+class ex{
+
+
+story 2 completed
+
+}
